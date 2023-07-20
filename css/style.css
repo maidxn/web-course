@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://images.ctfassets.net/cnu0m8re1exe/76iARqWFwf5VQeHcy7FsYB/75246efbd9ac79410b75b5c0211723ba/shutterstock_738535111.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill);
+    background-size: cover;
+}
+
+
+h2 {
+    color: lightblue;
+    text-align: center;
+    border: 5px dotted grey;
+    cursor: pointer;
+}
+
+p {
+    background-color: lightgreen;
+}
+
+li {
+    display: inline-block;
+}
+
+.text {
+    border: 5px dashed lightsalmon;
+    text-align: center;
+}
+
+#divvv {
+    background-color: white;
+}
+
+.test {
+    color: yellow;
+}
